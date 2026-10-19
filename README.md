@@ -1,13 +1,19 @@
-# L'IRCin Windows downloads
+# L'IRCin downloads
 
-Official Windows downloads for L'IRCin, an IRC client with Free, FreeAds, Supporter and Pro editions.
+Official downloads for L'IRCin, an IRC client with Free, FreeAds, Supporter and Pro editions.
 
-Download the latest version from [Releases](https://github.com/lircin/LIRCin/releases).
+Download [v1.1.0-beta.18](https://github.com/lircin/LIRCin/releases/tag/v1.1.0-beta.18) or browse [all releases](https://github.com/lircin/LIRCin/releases).
 
-This repository contains public application downloads only. Application source is maintained privately and is not included in this repository's history or source archives.
+## Windows x64
 
-GitHub automatically adds **Source code (zip)** and **Source code (tar.gz)** links to tagged releases. In this downloads-only repository they archive only the public README, not the application source. For the application, choose one of the named Windows x64 ZIPs instead.
+Choose the named Windows ZIP for your edition. Packages include the Windows runtime. Free has no advertising; FreeAds includes sponsorship placements. Supporter and Pro require separately issued customer licenses; no activation keys are included.
 
-Supporter and Pro downloads require separately issued customer licenses. Public ZIPs never contain activation keys.
+## Linux / Wine (experimental)
 
-Current Windows builds are unsigned. SHA256SUMS.txt verifies file integrity, not a trusted publisher identity.
+The `linux-wine.tar.gz` downloads contain the **Windows x64 application for use with Wine**, not native Linux binaries or a bundled Wine installation. Linux execution has not been validated. A compatible 64-bit Wine environment with working .NET 8 Windows Desktop/WPF support is required. Embedded streaming/WebView2, audio and video compatibility may vary or fail. Read `README-WINE.txt` inside the archive before running it. Update manually on Wine; the built-in updater targets Windows.
+
+## Privacy and integrity
+
+This repository contains public downloads and documentation only. Application source is maintained privately. GitHub's automatic **Source code (zip)** and **Source code (tar.gz)** links archive this public documentation, not the application source.
+
+Builds are unsigned. `SHA256SUMS.txt` verifies file integrity, not a trusted publisher identity. Public packages never include activation keys or private signing keys.
