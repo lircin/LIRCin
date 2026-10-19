@@ -2,7 +2,7 @@
 
 Official downloads for L'IRCin, an IRC client with Free, FreeAds, Supporter and Pro editions.
 
-Download [v1.1.0-beta.19](https://github.com/lircin/LIRCin/releases/tag/v1.1.0-beta.19) or browse [all releases](https://github.com/lircin/LIRCin/releases).
+Download [v1.1.0-beta.20](https://github.com/lircin/LIRCin/releases/tag/v1.1.0-beta.20) or browse [all releases](https://github.com/lircin/LIRCin/releases).
 
 ## Windows x64
 
