@@ -2,11 +2,13 @@
 
 Official downloads for L'IRCin, an IRC client with Free, FreeAds, Supporter and Pro editions.
 
-Download [v1.1.0-beta.20](https://github.com/lircin/LIRCin/releases/tag/v1.1.0-beta.20) or browse [all releases](https://github.com/lircin/LIRCin/releases).
+Download [v1.1.0-beta.21](https://github.com/lircin/LIRCin/releases/tag/v1.1.0-beta.21) or browse [all releases](https://github.com/lircin/LIRCin/releases).
 
 ## Windows x64
 
 Choose the named Windows ZIP for your edition. Packages include the Windows runtime. Free has no advertising; FreeAds includes sponsorship placements. Supporter and Pro require separately issued customer licenses; no activation keys are included.
+
+Local video includes independent full screen, borderless hover-control PiP, soft black-bar edges, multiple A-B repeat cuts, sharpening, and motion-interpolation targets up to 100 FPS. High FPS targets depend on hardware and can be CPU-intensive. On first use, the app asks permission to download the LGPL mpv engine directly from its upstream distributor; mpv is not bundled in these downloads. Archive/library integrity is checked with pinned SHA-256 hashes.
 
 ## Linux / Wine (experimental)
 
